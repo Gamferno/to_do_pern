@@ -12,7 +12,6 @@ function App() {
   const [editingId, setEditingId] = useState(null);
   const [editValue, setEditValue] = useState("");
 
-  // Fetch todos on load
 
   useEffect(() => {
     axios
