@@ -18,8 +18,6 @@ This project demonstrates how to build a CRUD (Create, Read, Update, Delete) app
 
 ## 📸 Preview
 
-> 🖼️ Replace the image link below with your own screenshot:
-
 ![App Screenshot](./frontend/public/image.png)
 
 ---
